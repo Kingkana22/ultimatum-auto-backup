@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
 while true; do
   cd ~/ULTIMATUM_PROJECT
   git add .
